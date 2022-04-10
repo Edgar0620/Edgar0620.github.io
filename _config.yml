@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Note and Share
+subtitle: 'R R R R'
+description: '個人紀錄、使用與分享'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Edgar Yeh
+language: zh-tw
+timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
